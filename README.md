@@ -1,4 +1,4 @@
-# SIREBA-FAKE-API
+# SIREBA FAKE-API
 
 *Archivo JSON utilizado por JSON-Server para simular la API REST del Trabajo Integrador*
 
