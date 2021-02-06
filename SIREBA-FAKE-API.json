@@ -1,83 +1,109 @@
 {
-    "reports": [
-        {
-            "id": 1,
-            "date": "29/1/2021",
-            "category": {
-                "id": 1,
-                "categoryName": "BACHE"
-            },
-            "description": "hay un pozo en el medio de la calle",
-            "location": "San Martin 2536",
-            "locationLat": -31.646423547276513,
-            "locationLng": -60.70649541517886,
-            "pictureURI": ""
-        },
-        {
-            "id": 2,
-            "date": "30/1/2021",
-            "category": {
-                "id": 2,
-                "categoryName": "ARBOL CAIDO"
-            },
-            "description": "se cayo un arbol en medio de boulevard, no se puede pasar por ningun lado",
-            "location": "Blvd. Galvez 2035",
-            "locationLat": -31.63683430357611,
-            "locationLng": -60.69689490061272,
-            "pictureURI": ""
-        },
-        {
-            "id": 3,
-            "date": "30/1/2021",
-            "category": {
-                "id": 2,
-                "categoryName": "ARBOL CAIDO"
-            },
-            "description": "ocupa toda la calle, no se puede salir",
-            "location": "Tacuari 6444",
-            "locationLat": -31.612443462211292,
-            "locationLng": -60.67680837735381,
-            "pictureURI": ""
-        },
-        {
-            "id": 4,
-            "date": "2/2/2021",
-            "category": {
-                "id": 3,
-                "categoryName": "OTRO"
-            },
-            "description": "cable cortado, salen chispas para todos lados",
-            "location": "4 de Enero 2937",
-            "locationLat": -31.640792955268775,
-            "locationLng": -60.71036175325821,
-            "pictureURI": ""
-        },
-        {
-            "id": 5,
-            "date": "3/2/2021",
-            "category": {
-                "id": 1,
-                "categoryName": "BACHE"
-            },
-            "description": "pozo en la ochava, causa accidentes",
-            "location": "4 de Enero 2937",
-            "locationLat": -31.640792955268775,
-            "locationLng": -60.71036175325821,
-            "pictureURI": ""
-        }
-    ],
-    "categories": [
-        {
-            "id": 1,
-            "categoryName": "BACHE"
-        },
-        {
-            "id": 2,
-            "categoryName": "ARBOL CAIDO"
-        },
-        {
-            "id": 3,
-            "categoryName": "OTRO"
-        }
-    ]
+  "reports": [
+    {
+      "id": 1,
+      "date": "29/1/2021",
+      "category": {
+        "id": 1,
+        "categoryName": "BACHE"
+      },
+      "description": "hay un pozo en el medio de la calle",
+      "location": "San Martin 2536",
+      "locationLat": -31.646423547276513,
+      "locationLng": -60.70649541517886,
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2"
+    },
+    {
+      "id": 2,
+      "date": "30/1/2021",
+      "category": {
+        "id": 2,
+        "categoryName": "ARBOL CAIDO"
+      },
+      "description": "se cayo un arbol en medio de boulevard, no se puede pasar por ningun lado",
+      "location": "Blvd. Galvez 2035",
+      "locationLat": -31.63683430357611,
+      "locationLng": -60.69689490061272,
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2"
+    },
+    {
+      "id": 3,
+      "date": "30/1/2021",
+      "category": {
+        "id": 2,
+        "categoryName": "ARBOL CAIDO"
+      },
+      "description": "ocupa toda la calle, no se puede salir",
+      "location": "Tacuari 6444",
+      "locationLat": -31.612443462211292,
+      "locationLng": -60.67680837735381,
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2"
+    },
+    {
+      "id": 4,
+      "date": "2/2/2021",
+      "category": {
+        "id": 3,
+        "categoryName": "OTRO"
+      },
+      "description": "cable cortado, salen chispas para todos lados",
+      "location": "4 de Enero 2937",
+      "locationLat": -31.640792955268775,
+      "locationLng": -60.71036175325821,
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2"
+    },
+    {
+      "id": 5,
+      "date": "3/2/2021",
+      "category": {
+        "id": 1,
+        "categoryName": "BACHE"
+      },
+      "description": "pozo en la ochava, causa accidentes",
+      "location": "4 de Enero 2937",
+      "locationLat": -31.640792955268775,
+      "locationLng": -60.71036175325821,
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2"
+    },
+    {
+      "date": "05/02/2021",
+      "category": {
+        "id": 1,
+        "categoryName": "BACHE"
+      },
+      "description": "Test",
+      "location": "San Lorenzo 2826",
+      "locationLat": -31.64117547132666,
+      "locationLng": -60.71558799594641,
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2",
+      "id": 6
+    },
+    {
+      "date": "06/02/2021",
+      "category": {
+        "id": 3,
+        "categoryName": "OTRO"
+      },
+      "description": "Cable cortado en medio de la calle. Hace mucho chisperio, es un peligro",
+      "location": "Catamarca 3275",
+      "locationLat": -31.643004536079744,
+      "locationLng": -60.714719630777836,
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id_7.jpg?alt=media&token=e4213b7c-385f-4b1e-aa3b-7fa8e9a972a5",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "BACHE"
+    },
+    {
+      "id": 2,
+      "categoryName": "ARBOL CAIDO"
+    },
+    {
+      "id": 3,
+      "categoryName": "OTRO"
+    }
+  ]
 }
