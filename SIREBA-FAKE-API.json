@@ -105,5 +105,13 @@
       "id": 3,
       "categoryName": "OTRO"
     }
+  ],
+  "users": [
+    {
+      "uid": "5F082kG06LdvtA8U8ODc0UKYKls1",
+      "email": "mariano@test.com",
+      "password": "123456789",
+      "id": 1
+    }
   ]
 }
