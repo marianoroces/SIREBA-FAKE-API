@@ -11,7 +11,13 @@
       "location": "San Martin 2536",
       "locationLat": -31.646423547276513,
       "locationLng": -60.70649541517886,
-      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2"
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2",
+      "user": {
+        "uid": "eczByo348BREbywV4oDbHwS3AAm1",
+        "email": "test@test.com",
+        "password": "test1234",
+        "id": 2
+      }
     },
     {
       "id": 2,
@@ -24,7 +30,13 @@
       "location": "Blvd. Galvez 2035",
       "locationLat": -31.63683430357611,
       "locationLng": -60.69689490061272,
-      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2"
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2",
+      "user": {
+        "uid": "5F082kG06LdvtA8U8ODc0UKYKls1",
+        "email": "mariano@test.com",
+        "password": "123456789",
+        "id": 1
+      }
     },
     {
       "id": 3,
@@ -37,7 +49,13 @@
       "location": "Tacuari 6444",
       "locationLat": -31.612443462211292,
       "locationLng": -60.67680837735381,
-      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2"
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2",
+      "user": {
+        "uid": "5F082kG06LdvtA8U8ODc0UKYKls1",
+        "email": "mariano@test.com",
+        "password": "123456789",
+        "id": 1
+      }
     },
     {
       "id": 4,
@@ -50,7 +68,13 @@
       "location": "4 de Enero 2937",
       "locationLat": -31.640792955268775,
       "locationLng": -60.71036175325821,
-      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2"
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2",
+      "user": {
+        "uid": "5F082kG06LdvtA8U8ODc0UKYKls1",
+        "email": "mariano@test.com",
+        "password": "123456789",
+        "id": 1
+      }
     },
     {
       "id": 5,
@@ -63,7 +87,13 @@
       "location": "4 de Enero 2937",
       "locationLat": -31.640792955268775,
       "locationLng": -60.71036175325821,
-      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2"
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2",
+      "user": {
+        "uid": "5F082kG06LdvtA8U8ODc0UKYKls1",
+        "email": "mariano@test.com",
+        "password": "123456789",
+        "id": 1
+      }
     },
     {
       "date": "05/02/2021",
@@ -76,7 +106,13 @@
       "locationLat": -31.64117547132666,
       "locationLng": -60.71558799594641,
       "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2",
-      "id": 6
+      "id": 6,
+      "user": {
+        "uid": "eczByo348BREbywV4oDbHwS3AAm1",
+        "email": "test@test.com",
+        "password": "test1234",
+        "id": 2
+      }
     },
     {
       "date": "06/02/2021",
@@ -89,7 +125,32 @@
       "locationLat": -31.643004536079744,
       "locationLng": -60.714719630777836,
       "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id_7.jpg?alt=media&token=e4213b7c-385f-4b1e-aa3b-7fa8e9a972a5",
-      "id": 7
+      "id": 7,
+      "user": {
+        "uid": "eczByo348BREbywV4oDbHwS3AAm1",
+        "email": "test@test.com",
+        "password": "test1234",
+        "id": 2
+      }
+    },
+    {
+      "date": "16/02/2021",
+      "category": {
+        "id": 1,
+        "categoryName": "BACHE"
+      },
+      "description": "",
+      "location": "Primera Junta 3064",
+      "locationLat": -31.64639169315727,
+      "locationLng": -60.71273043751716,
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id_8.jpg?alt=media&token=409baa34-1fec-4817-aa9a-cf226c528abc",
+      "user": {
+        "uid": "eczByo348BREbywV4oDbHwS3AAm1",
+        "email": "test@test.com",
+        "password": "test1234",
+        "id": 2
+      },
+      "id": 8
     }
   ],
   "categories": [
@@ -112,6 +173,12 @@
       "email": "mariano@test.com",
       "password": "123456789",
       "id": 1
+    },
+    {
+      "uid": "eczByo348BREbywV4oDbHwS3AAm1",
+      "email": "test@test.com",
+      "password": "test1234",
+      "id": 2
     }
   ]
 }
