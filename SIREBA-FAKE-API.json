@@ -8,7 +8,7 @@
         "categoryName": "BACHE"
       },
       "description": "hay un pozo en el medio de la calle",
-      "location": "San Martin 2536",
+      "location": "San Martin 2539",
       "locationLat": -31.646423547276513,
       "locationLng": -60.70649541517886,
       "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id.jpg?alt=media&token=7540226e-21cb-4878-b578-d9541cfdcce2",
@@ -151,6 +151,25 @@
         "id": 2
       },
       "id": 8
+    },
+    {
+      "date": "26/02/2021",
+      "category": {
+        "id": 1,
+        "categoryName": "BACHE"
+      },
+      "description": "",
+      "location": "Salvador Caputto 3367",
+      "locationLat": -31.637946833049075,
+      "locationLng": -60.714574456214905,
+      "pictureURI": "https://firebasestorage.googleapis.com/v0/b/sireba-8a261.appspot.com/o/images%2Freport_id_9.jpg?alt=media&token=8d5cc850-032c-439d-97f0-19453cd79ff1",
+      "user": {
+        "uid": "eczByo348BREbywV4oDbHwS3AAm1",
+        "email": "test@test.com",
+        "password": "test1234",
+        "id": 2
+      },
+      "id": 9
     }
   ],
   "categories": [
@@ -179,6 +198,12 @@
       "email": "test@test.com",
       "password": "test1234",
       "id": 2
+    },
+    {
+      "uid": "tull3qa01XhruhBpB80lwksBrGt1",
+      "email": "cuenta@test.com",
+      "password": "1234567",
+      "id": 3
     }
   ]
 }
