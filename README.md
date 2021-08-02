@@ -8,7 +8,7 @@ Para la ejecucion del archivo basta con seguir los siguientes pasos:
 ```
 > git clone https://github.com/marianoroces/SIREBA-FAKE-API.git
 
-> cd nombreRepositorio
+> cd nombre-repositorio
 
 > json-server --watch SIREBA-FAKE-API.json
 ```
